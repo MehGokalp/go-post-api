@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97070ac6-ba19-4e4c-a910-f5d34f13776f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pkg/comment/comment.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/fetch/fetch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/post/post.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/user/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fetch/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fetch/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="425">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,6 +74,7 @@
         <option value="$PROJECT_DIR$/pkg/post/post.go" />
         <option value="$PROJECT_DIR$/pkg/fetch/fetch.go" />
         <option value="$PROJECT_DIR$/src/fetch/main.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -94,52 +99,6 @@
             <path>
               <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="post-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
-              <item name="fetch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="pkg" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="post-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="post-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fetch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -418,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fetch/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -427,6 +386,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
