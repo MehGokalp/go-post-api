@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/go-post-api/pkg/fetch"
+	"github.com/go-post-api/pkg/post"
+	"github.com/go-post-api/pkg/user"
 	"os"
-	"post-api/pkg/fetch"
-	"post-api/pkg/post"
-	"post-api/pkg/user"
 	"runtime"
 	"strconv"
 	"sync"

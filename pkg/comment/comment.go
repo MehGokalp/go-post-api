@@ -1,11 +1,11 @@
 package comment
 
-import "post-api/pkg/post"
+import "github.com/go-post-api/pkg/post"
 
 type Comment struct {
-	Id int
-	Post post.Post
+	Id         int
+	Post       post.Post
 	AuthorName string
-	Email string
-	Body string
+	Email      string
+	Body       string
 }
